@@ -161,8 +161,6 @@ MIT License - see LICENSE file
 ## 👨‍💻 Author
 
 **Eugene Keya** - AI Automation Specialist  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ## 🆘 Troubleshooting
 
